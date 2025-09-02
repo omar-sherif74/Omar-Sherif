@@ -22,5 +22,5 @@
 
 ## Contact Me
 - Email: omarsherif56638@gmail.com  
-- LinkedIn: (https://linkedin.com/in/omar-sher)
+- LinkedIn: (https://www.linkedin.com/in/omar-sherif-3024672a0/)
 - GitHub: (https://github.com/omar-sherif74)
