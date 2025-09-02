@@ -21,6 +21,6 @@
 - [Other Project 2](#)
 
 ## Contact Me
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/omar-sher](https://linkedin.com/in/omar-sher)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- Email: omarsherif56638@gmail.com  
+- LinkedIn: (https://linkedin.com/in/omar-sher)
+- GitHub: (https://github.com/omar-sherif74)
